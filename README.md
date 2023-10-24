@@ -20,11 +20,13 @@ Hasta randevu alabilir ve geçmiş randevularını görüntüleyebilir.
 Hasta kaydı çakışmaları önler ve laboratuvar veya röntgen gibi birimlere sevk edilirse sonuçları görüntüleyebilir.
 Yatış işlemleri ve ücret ödemeleri yapılabilir.
 Randevu iptali ve güncellemeleri mümkündür.
+
 Doktor Modülü:
 
 Doktorlar randevu takip edebilir, izin zamanlarında randevu almayı kapatabilir.
 Tetkik istekleri doğrudan laboratuvar modülünde görüntülenir ve sonuçları doktorlar görebilir.
 Hasta yatış bilgileri görüntülenebilir.
+
 Sekreter Modülü:
 
 Sekreterler randevu alabilir ve düzenleyebilir, gelir-gider bilgilerini takip edebilir.
