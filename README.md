@@ -42,5 +42,5 @@ Web arayüzü için HTML, CSS, JavaScript ve Bootstrap kullanılır.
 Yönetim paneli tasarımı ve backend kodları için HTML, CSS, JavaScript, Bootstrap ve PHP kullanılır.
 Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların kolayca erişim sağlamak için tasarlanmış kapsamlı bir otomasyon sistemini temsil eder.
 ![Ekran görüntüsü 2023-10-24 125129](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/36ec2a9a-e4f0-477d-a337-e48e5ffa5571)
-
+![Ekran görüntüsü 2023-10-24 125155](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/618ea473-11e0-45ad-9c57-1a656b9f8207)
 
