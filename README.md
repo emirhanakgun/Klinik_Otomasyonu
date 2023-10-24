@@ -50,3 +50,4 @@ Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların
 
 
 
+
