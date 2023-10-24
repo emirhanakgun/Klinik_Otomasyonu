@@ -43,9 +43,8 @@ Yönetim paneli tasarımı ve backend kodları için HTML, CSS, JavaScript, Boot
 Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların kolayca erişim sağlamak için tasarlanmış kapsamlı bir otomasyon sistemini temsil eder.
 ![Ekran görüntüsü 2023-10-24 125129](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/36ec2a9a-e4f0-477d-a337-e48e5ffa5571)
 ![Ekran görüntüsü 2023-10-24 125155](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/618ea473-11e0-45ad-9c57-1a656b9f8207)
-![Ekran görüntüsü 2023-10-24 131106](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/e9ceac18-6aa9-4766-b127-b6c654970a59
 ![Ekran görüntüsü 2023-10-24 130947](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/e38ffaae-493e-48e3-9c07-435f8e1a4f1b)
-!
+
 ![Ekran görüntüsü 2023-10-24 131035](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/bb652620-29b2-4a7c-9e78-749368401fac)
 ![Ekran görüntüsü 2023-10-24 130836](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/4542386d-f408-4589-9502-016e2068eddb)
 
