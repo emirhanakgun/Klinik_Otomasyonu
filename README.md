@@ -1,4 +1,4 @@
-                                                                                                              Klinik Otomasyonu
+                                                                                      Klinik Otomasyonu
 
 Bu proje, bir kliniğin verilerini işleyen bir otomasyon sistemi geliştirmeyi amaçlamaktadır. Projenin temel amacı, kullanıcı dostu ve anlaşılır bir arayüzle, kullanıcıların klinik verileri işlemesine ve erişmesine yardımcı olmaktır. Proje, sekreter, doktor, ve hasta girişleri ile farklı yetkilere sahip kullanıcıları destekler.
 
