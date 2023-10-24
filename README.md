@@ -35,10 +35,15 @@ Hastaların kayıtları tutulur ve istatistiksel raporlar üretilir.
 Kullanılan Diller ve Teknolojiler:
 
 Windows masaüstü uygulaması için C# programlama dili kullanılır.
+
 Veritabanı kayıtları için SQL veritabanı kullanılır.
+
 Web arayüzü için HTML, CSS, JavaScript ve Bootstrap kullanılır.
+
 Yönetim paneli tasarımı ve backend kodları için HTML, CSS, JavaScript, Bootstrap ve PHP kullanılır.
+
 Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların kolayca erişim sağlamak için tasarlanmış kapsamlı bir otomasyon sistemini temsil eder.
+
 
 ![Ekran görüntüsü 2023-10-24 125129](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/ac0069ae-43ea-485b-ab18-14c9fc9d9cfc)
 ![Ekran görüntüsü 2023-10-24 125155](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/a00e5a3b-9d9d-42fd-8598-a87240c99d53)
