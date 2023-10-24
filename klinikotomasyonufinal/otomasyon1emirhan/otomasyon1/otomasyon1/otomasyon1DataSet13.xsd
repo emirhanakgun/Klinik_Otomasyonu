@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="otomasyon1DataSet13" targetNamespace="http://tempuri.org/otomasyon1DataSet13.xsd" xmlns:mstns="http://tempuri.org/otomasyon1DataSet13.xsd" xmlns="http://tempuri.org/otomasyon1DataSet13.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="otomasyon1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="otomasyon1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KlinikOtomasyonu1.Properties.Settings.GlobalReference.Default.otomasyon1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="randevuTableAdapter" GeneratorDataComponentClassName="randevuTableAdapter" Name="randevu" UserDataComponentName="randevuTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="otomasyon1ConnectionString (Settings)" DbObjectName="otomasyon1.dbo.randevu" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tc_no, randevu_tarihi, randevu_saati FROM dbo.randevu</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tc_no" DataSetColumn="tc_no" />
+              <Mapping SourceColumn="randevu_tarihi" DataSetColumn="randevu_tarihi" />
+              <Mapping SourceColumn="randevu_saati" DataSetColumn="randevu_saati" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="otomasyon1DataSet13" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="otomasyon1DataSet13" msprop:Generator_DataSetName="otomasyon1DataSet13">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="randevu" msprop:Generator_RowEvHandlerName="randevuRowChangeEventHandler" msprop:Generator_RowDeletedName="randevuRowDeleted" msprop:Generator_RowDeletingName="randevuRowDeleting" msprop:Generator_RowEvArgName="randevuRowChangeEvent" msprop:Generator_TablePropName="randevu" msprop:Generator_RowChangedName="randevuRowChanged" msprop:Generator_RowChangingName="randevuRowChanging" msprop:Generator_TableClassName="randevuDataTable" msprop:Generator_RowClassName="randevuRow" msprop:Generator_TableVarName="tablerandevu" msprop:Generator_UserTableName="randevu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tc_no" msprop:Generator_ColumnPropNameInRow="tc_no" msprop:Generator_ColumnPropNameInTable="tc_noColumn" msprop:Generator_ColumnVarNameInTable="columntc_no" msprop:Generator_UserColumnName="tc_no">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="11" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="randevu_tarihi" msprop:Generator_ColumnPropNameInRow="randevu_tarihi" msprop:Generator_ColumnPropNameInTable="randevu_tarihiColumn" msprop:Generator_ColumnVarNameInTable="columnrandevu_tarihi" msprop:Generator_UserColumnName="randevu_tarihi" type="xs:dateTime" />
+              <xs:element name="randevu_saati" msprop:Generator_ColumnPropNameInRow="randevu_saati" msprop:Generator_ColumnPropNameInTable="randevu_saatiColumn" msprop:Generator_ColumnVarNameInTable="columnrandevu_saati" msprop:Generator_UserColumnName="randevu_saati" type="xs:duration" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

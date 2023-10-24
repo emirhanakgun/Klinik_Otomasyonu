@@ -1,0 +1,136 @@
+body{
+	
+	margin:0; background-repeat: no-repeat; background-attachment: fixed; 
+    
+}
+
+.ust_serit{
+	
+	width:100%; height:2%; background-color:#031164;
+}
+
+.header{
+	
+	width:100%; height:100px; background-color:white;	float:left;
+}
+
+.orta{
+	
+	width:100%; height:cover; float:left; background-color:#F5F5F5;
+}
+
+.footer{
+	
+	width:100%; height:200px; background-color:#031164; float:left;
+}
+
+.logo{
+	
+	width:500px; height:50px; float:left;  
+}
+
+.linkler{
+	
+	float:left; background-color:white;  text-decoration:none; color:black; width:200px; height:100px; text-align:center; line-height:100px; font-family: Arial; font-size:20px; 
+}
+
+.linkler:hover{
+	
+	background-color:#031164;  color:white;
+}
+
+.o_menu{
+	
+	float:left; width:225px; height:175px; margin-top:50px; text-align:center; line-height:175px; color:white; margin-bottom:100px;
+}
+
+.o_menu:hover{
+		
+	transform: scale(1.1); 
+} 
+
+#giris_b:hover{
+	
+	text-decoration:underline;
+}
+
+#k_arayuz:hover{
+	
+	text-decoration:underline;
+}
+
+
+#iletisim{
+    background-image:url("../img/login.jpg");
+    padding: 100px;
+    background-size: cover;
+    height: auto;
+    text-align: center;
+}
+
+
+#iletisimopak{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 100px 100px 100px 100px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    height: 550px;
+    width: auto;
+}
+
+#formgrup{
+    width: 500px;
+    float: left;
+    height: 500px;
+    text-align: left;
+}
+
+#form{
+    width: 800px;
+    float:center;
+    padding-left: 100px 650px 100px 250px;
+    border-radius: 10px;
+    line-height: 13.5;
+}
+
+
+.form-contol{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #445c6e;
+    background-color: white;
+    margin: 1px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+textarea{
+    font-family: arial;
+    width: 400px;
+}
+
+input[type="submit"]{
+    cursor: pointer;
+    color: #445c6e;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    background-color: white;
+    border: 2px solid #445c6e;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#adres{
+    width: 550px;
+    float: right;
+    padding: 70px;
+    height: 500px;
+    text-align: left;
+    color: #031164;
+    font-size: 20px;
+    
+}

@@ -1,0 +1,119 @@
+body{
+	
+	margin:0; background-repeat: no-repeat; background-attachment: fixed; 
+    
+}
+
+.ust_serit{
+	
+	width:100%; height:2%; background-color:#031164;
+}
+
+.header{
+	
+	width:100%; height:100px; background-color:white;	float:left;
+}
+
+.orta{
+	
+	width:100%; height:1000px; float:left; background-color:#F5F5F5;  
+}
+
+.footer{
+	
+	width:100%; height:200px; background-color:#031164; float:left;
+}
+
+.logo{
+	
+	width:500px; height:50px; float:left;  
+}
+
+.linkler{
+	
+	float:left; background-color:white;  text-decoration:none; color:black; width:200px; height:100px; text-align:center; line-height:100px; font-family: Arial; font-size:20px; 
+}
+
+.linkler:hover{
+	
+	background-color:#031164;  color:white;
+}
+
+#giris_b:hover{
+	
+	text-decoration:underline;
+}
+
+.log{
+	
+	width:30%; height:87%; background-color:#CDCDCD; margin-left:35%; margin-top:3%; 
+}
+
+#k_arayuz:hover{
+	
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
+#login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        border-radius: 15px ;
+		margin-left:10%;
+
+
+}
+h2{
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+}
+label{
+    color: #031164;
+    font-size: 26px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#onay{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: black;
+	background-color:white;
+
+}
+
+span{
+    color: white;
+    font-size: 17px;
+}
+
+
+
+
+
+
+

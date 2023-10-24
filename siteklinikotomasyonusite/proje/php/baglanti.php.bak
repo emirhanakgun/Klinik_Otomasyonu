@@ -1,0 +1,10 @@
+<?php
+
+	$servername =".";
+	$connectionInfo = array("Database"=>"otomasyon1",
+							"CharacterSet" => "UTF-8");
+							
+	$conn =sqlsrv_connect($servername ,$connectionInfo);
+
+
+?> 	

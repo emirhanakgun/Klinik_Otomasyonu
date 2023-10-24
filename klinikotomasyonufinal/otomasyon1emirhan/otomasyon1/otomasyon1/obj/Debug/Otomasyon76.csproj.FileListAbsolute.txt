@@ -1,0 +1,121 @@
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe.config
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorbilgidüzenle.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Doktordetay.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorgiris.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorkayit.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.giris.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastadetay.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagiris.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastakayıtol.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekretergiris.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekreterpaneli.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.exe
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.pdb
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.pdb
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacform.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagör.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevual.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.yatısver.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.tahlilistendi.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.duyuru.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.muayenet.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sonucal.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevugor.resources
+C:\Users\LENOVO\Desktop\otomasyonproje\Proje dizin\Proje dizin\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorrandevugor.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe.config
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.pdb
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorbilgidüzenle.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Doktordetay.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorgiris.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorkayit.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorrandevugor.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.duyuru.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.muayenet.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevugor.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sonucal.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.tahlilistendi.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.giris.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastadetay.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagiris.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagör.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastakayıtol.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacform.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Properties.Resources.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevual.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekretergiris.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekreterpaneli.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.yatısver.resources
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.exe
+C:\Users\Emre\Desktop\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.pdb
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe.config
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.pdb
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorbilgidüzenle.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Doktordetay.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorgiris.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorkayit.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorrandevugor.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.duyuru.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.muayenet.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevugor.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sonucal.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.tahlilistendi.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.giris.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastadetay.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagiris.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagör.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastakayıtol.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacform.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevual.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekretergiris.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekreterpaneli.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.yatısver.resources
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.exe
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.pdb
+C:\Users\LENOVO\Downloads\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacekle.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe.config
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.exe
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\bin\Debug\KlinikOtomasyonu1.pdb
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorbilgidüzenle.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Doktordetay.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorgiris.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorkayit.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.doktorrandevugor.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.duyuru.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacekle.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.muayenet.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevugor.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sonucal.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.tahlilistendi.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.giris.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastadetay.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagiris.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastagör.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.hastakayıtol.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.ilacform.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.Properties.Resources.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.randevual.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekretergiris.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.sekreterpaneli.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.yatısver.resources
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.GenerateResource.cache
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\Otomasyon76.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.exe
+C:\Users\Emirhan\Desktop\Yeni klasör\Emirhan\emir\emiro\SİSTEM ANALİZİ\klinikotomasyonu\klinikotomasyonufinal\otomasyon1emirhan\otomasyon1\otomasyon1\obj\Debug\KlinikOtomasyonu1.pdb
