@@ -46,8 +46,8 @@ Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların
 ![Ekran görüntüsü 2023-10-24 131106](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/e9ceac18-6aa9-4766-b127-b6c654970a59
 ![Ekran görüntüsü 2023-10-24 130947](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/e38ffaae-493e-48e3-9c07-435f8e1a4f1b)
 !
-![Ekran görüntüsü 2023-10-24 130947](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/21eaa302-0176-4840-b344-69e86d3f523d)
 ![Ekran görüntüsü 2023-10-24 131035](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/bb652620-29b2-4a7c-9e78-749368401fac)
+![Ekran görüntüsü 2023-10-24 130836](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/4542386d-f408-4589-9502-016e2068eddb)
 
 
 
