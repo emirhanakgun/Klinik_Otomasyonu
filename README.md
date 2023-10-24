@@ -36,7 +36,6 @@ Web arayüzü için HTML, CSS, JavaScript ve Bootstrap kullanılır.
 Yönetim paneli tasarımı ve backend kodları için HTML, CSS, JavaScript, Bootstrap ve PHP kullanılır.
 Bu proje, kliniğin verilerini etkili bir şekilde işlemek ve kullanıcıların kolayca erişim sağlamak için tasarlanmış kapsamlı bir otomasyon sistemini temsil eder.
 
-güncel driverların indirme linki --> https://github.com/microsoft/msphpsql/releases/tag/v5.11.0 
 ![Ekran görüntüsü 2023-10-24 125129](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/ac0069ae-43ea-485b-ab18-14c9fc9d9cfc)
 ![Ekran görüntüsü 2023-10-24 125155](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/a00e5a3b-9d9d-42fd-8598-a87240c99d53)
 ![Ekran görüntüsü 2023-10-24 131106](https://github.com/emirhanakgun/Klinik_Otomasyonu/assets/135712181/181e8fcf-946c-428a-8907-8c462dc30370)
