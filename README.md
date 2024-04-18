@@ -36,7 +36,7 @@ Kullanılan Diller ve Teknolojiler:
 
 Windows masaüstü uygulaması için C# programlama dili kullanılır.
 
-Veritabanı kayıtları için SQL veritabanı kullanılır.
+Veritabanı kayıtları için MsSQL veritabanı kullanılır.
 
 Web arayüzü için HTML, CSS, JavaScript ve Bootstrap kullanılır.
 Yönetim paneli tasarımı ve backend kodları için HTML, CSS, JavaScript, Bootstrap ve PHP kullanılır.
